@@ -1,6 +1,7 @@
 {
-    "name": "oro/crm-magento-embedded-contact-us",
+    "name": "zhukovsergei/OroCRMMagentoContactUsBundle",
     "description": "OroCRM Magento Embedded Contact Us package",
+    "version": "6.0.0",
     "homepage": "https://github.com/oroinc/OroCRMMagentoContactUsBundle.git",
     "license": "OSL-3.0",
     "authors": [
