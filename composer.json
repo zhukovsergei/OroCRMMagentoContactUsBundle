@@ -14,7 +14,7 @@
         "exclude-from-classmap": ["/Tests/"]
     },
     "require": {
-        "oro/crm": "4.2.*"
+        "oro/crm": "6.0.*"
     },
     "repositories": {
         "oro": {
@@ -26,7 +26,14 @@
     "prefer-stable": true,
     "extra": {
         "branch-alias": {
-            "dev-master": "4.2-dev"
+            "dev-master": "6.0-dev"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "symfony/runtime": true,
+            "symfony/flex": true,
+            "php-http/discovery": true
         }
     }
 }
